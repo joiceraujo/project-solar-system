@@ -12,7 +12,8 @@ class App extends React.Component {
         <SolarSystem />
         <Title />
         <PlanetCard />
-      </div>);
+      </div>
+    );
   }
 }
 
